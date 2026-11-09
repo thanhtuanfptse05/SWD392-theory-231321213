@@ -1,0 +1,13 @@
+# Ignore large binary PPTX and PDF slides
+*.pptx
+*.pdf
+
+# Ignore extracted slide artifacts and Python caches
+_extracted/
+__pycache__/
+*.pyc
+
+# Ignore temp files
+_temp*
+_test*
+_check*
